@@ -6,4 +6,5 @@ Not a gimmick but something interesting!
 
 
 Copyright (c) 2019-2024 by Ibrahim Zaman.
+<br/>
 All rights reserved!
