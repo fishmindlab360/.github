@@ -1,7 +1,10 @@
 ## Hi there 👋 folks
 
-We (I) are building Figent AI - AI Agents for everyone!
-Not a gimmick but something interesting!
+We (I ~ Not a team right now) are building OpenBeliever.com, 
+Figent AI - AI Agents for everyone,
+& more stuff,
+Of course, there are no gimmicks, 
+but it is something interesting!
 
 
 
